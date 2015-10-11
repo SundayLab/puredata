@@ -7,4 +7,4 @@ usage
 ========
 
 - get http://puredata.info/downloads/pd-extended
-- haven fun :)
+- have fun :)
